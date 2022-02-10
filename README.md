@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shem SHadrack</h1>
+<h1 align="center">Hi 👋, I'm Shem Shadrack</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
