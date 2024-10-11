@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Java,C#,c++**
 
-- 📫 How to reach me **shemtorga@gmail.com**
-
 - ⚡ Fun fact **while(no success){ tryAgain(); if(Dead) break; }**
 
 <h3 align="left">Connect with me:</h3>
