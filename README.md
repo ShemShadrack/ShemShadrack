@@ -7,12 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemshadrack&label=Profile%20views&color=0e75b6&style=flat" alt="shemshadrack" /> </p>
 
-- 🔭 I’m currently working on [Watch-App](https://github.com/ShemShadrack/RolexWatch-App)
-
-- 🌱 I’m currently learning **Dart, python**
-
-- 🤝 I’m looking for help with [BluePumpkin](https://github.com/ShemShadrack/BluePumpkin)
-
 - 📝 I regularly write articles on [linckforum.com](linckforum.com)
 
 - 💬 Ask me about **Java,C#,c++**
